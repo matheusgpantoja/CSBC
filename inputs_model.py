@@ -56,7 +56,7 @@ bigM = 999999999999999999999999999999
 #                      Topology Information                      # 
 # ===============================================================#
 
-total_nodes = 10 # [0, 1, 2, ..., 15]
+total_nodes = 10 # [0, 1, 2, ..., 10]
 
 
 position_nodes = {    
@@ -305,7 +305,7 @@ services = {'wb' : {    'bandwidth' : 100,
 
 
 # Alterar o número de demandas para realizar os testes
-total_demands = 8
+total_demands = 3
 
 # Set of demands
 # Demand Identifier, Source, Destiny, Service
